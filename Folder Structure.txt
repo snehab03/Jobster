@@ -1,0 +1,22 @@
+Jobster/
+├── public/
+│ ├── favicon.ico
+│ ├── index.html
+│ ├── logo192.png
+│ ├── logo512.png
+│ ├── manifest.json
+│ └── robots.txt
+├── src/
+│ ├── assets/
+│ ├── components/
+│ ├── features/
+│ ├── pages/
+│ ├── utils/
+│ ├── App.js
+│ ├── index.css
+│ ├── index.js
+│ └── store.js
+├── Folder Structure.txt
+├── README.md
+├── package-lock.json
+├── package.json
